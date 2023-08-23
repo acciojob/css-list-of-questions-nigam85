@@ -1,2 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f8fffe;
+}
 
-/* Your CSS Code here. */
+.questions {
+    margin-top: 20px;
+    max-width: 600px;
+}
+
+.question {
+    background-color: #f8fffe;
+    border-left: 8px solid green;
+    padding: 15px;
+    height: 50px;
+}
